@@ -36,7 +36,7 @@ texture:
 
 # Build settings
 # theme: texture
-
+remote_theme: thelehhman/texture
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
